@@ -16,4 +16,4 @@ Copy and Paste the Deployed Client Link to this README
 > https://doughnuts-299c0.firebaseapp.com
 
 Copy and Paste the Deployed Server Link to this README
-> hhttps://dashboard.heroku.com/apps/evening-garden-36962
+> https://dashboard.heroku.com/apps/evening-garden-36962
