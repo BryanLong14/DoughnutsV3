@@ -7,14 +7,14 @@ _Server_
 1. Commit that project to github
 1. Deploy the server to Heroku
 
-_Client_ 
+_Client_
 1.  Update the client/src/main.js to do a fetch request to the deployed server site
 1.  Using the command line, deploy this client site to Firebase
 
-<hr> 
+<hr>
 
 Copy and Paste the Deployed Client Link to this README
-> your url here
+> https://dough-ed36c.firebaseapp.com/
 
 Copy and Paste the Deployed Server Link to this README
-> you url here
+> https://nameless-atoll-77636.herokuapp.com/cake
