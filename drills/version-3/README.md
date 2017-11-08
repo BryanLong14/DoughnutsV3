@@ -13,7 +13,7 @@ _Client_
 <hr>
 
 Copy and Paste the Deployed Client Link to this README
-> your url here
+> https://doghunts-3.firebaseapp.com/
 
 Copy and Paste the Deployed Server Link to this README
-> you url here
+> https://pure-refuge-52497.herokuapp.com/hole

@@ -3,7 +3,7 @@ let add = document.getElementById('append')
 
 button.addEventListener('click', (e) => {
   add.innerText = ''
-  fetch('http://localhost:3000/hole')
+  fetch('https://git.heroku.com/pure-refuge-52497.git/hole')
   .then((res) => res.json())
   .then((data) => {
     data.forEach((item) => {
