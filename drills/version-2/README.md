@@ -13,7 +13,7 @@ _Client_
 <hr>
 
 Copy and Paste the Deployed Client Link to this README
-> your url here
+> https://doughnuts-299c0.firebaseapp.com
 
 Copy and Paste the Deployed Server Link to this README
-> you url here
+> hhttps://dashboard.heroku.com/apps/evening-garden-36962
